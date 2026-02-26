@@ -1,0 +1,10 @@
+D:\LongYinHaHa\VSCode\Rimworld\BetterEquipmentReloading\Source\obj\Release\BetterEquipmentReloading.csproj.AssemblyReference.cache
+D:\LongYinHaHa\VSCode\Rimworld\BetterEquipmentReloading\Source\obj\Release\BetterEquipmentReloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\LongYinHaHa\VSCode\Rimworld\BetterEquipmentReloading\Source\obj\Release\BetterEquipmentReloading.AssemblyInfoInputs.cache
+D:\LongYinHaHa\VSCode\Rimworld\BetterEquipmentReloading\Source\obj\Release\BetterEquipmentReloading.AssemblyInfo.cs
+D:\LongYinHaHa\VSCode\Rimworld\BetterEquipmentReloading\Source\obj\Release\BetterEquipmentReloading.csproj.CoreCompileInputs.cache
+D:\LongYinHaHa\VSCode\Rimworld\BetterEquipmentReloading\Source\obj\Release\BetterEquipmentReloading.sourcelink.json
+D:\LongYinHaHa\VSCode\Rimworld\BetterEquipmentReloading\1.6\Assemblies\BetterEquipmentReloading.dll
+D:\LongYinHaHa\VSCode\Rimworld\BetterEquipmentReloading\1.6\Assemblies\BetterEquipmentReloading.pdb
+D:\LongYinHaHa\VSCode\Rimworld\BetterEquipmentReloading\Source\obj\Release\BetterEquipmentReloading.dll
+D:\LongYinHaHa\VSCode\Rimworld\BetterEquipmentReloading\Source\obj\Release\BetterEquipmentReloading.pdb

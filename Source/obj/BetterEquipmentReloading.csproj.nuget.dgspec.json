@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\LongYinHaHa\\VSCode\\Rimworld\\BetterEquipmentReloading\\Source\\BetterEquipmentReloading.csproj": {}
+  },
+  "projects": {
+    "D:\\LongYinHaHa\\VSCode\\Rimworld\\BetterEquipmentReloading\\Source\\BetterEquipmentReloading.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\LongYinHaHa\\VSCode\\Rimworld\\BetterEquipmentReloading\\Source\\BetterEquipmentReloading.csproj",
+        "projectName": "BetterEquipmentReloading",
+        "projectPath": "D:\\LongYinHaHa\\VSCode\\Rimworld\\BetterEquipmentReloading\\Source\\BetterEquipmentReloading.csproj",
+        "packagesPath": "C:\\Users\\LongYinHaHa\\.nuget\\packages\\",
+        "outputPath": "D:\\LongYinHaHa\\VSCode\\Rimworld\\BetterEquipmentReloading\\Source\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LongYinHaHa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Better Equipment Reloading</name>
+  <author>LongYinHaHa</author>
+  <packageId>LongYinHaHa.BetterEquipmentReloading</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>Enhances the vanilla reloadable equipment experience in RimWorld. Your pawns will intelligently manage resources with inventory priority, auto resource finding, and right-click menu options for all vanilla reloadable equipment.
+
+Core Features:
+- Inventory Priority: Pawns will first use resources from their own inventory
+- Auto Map Search: Automatically finds reachable resource stacks on the map
+- Multi-stack Hauling: Supports merging multiple resource stacks
+- Accurate Reloading: Pawn will only pick up the minimum amount of resources needed
+- World Map Gizmo Supported: Adds reload functionality to all reloadable gear with gizmo icons
+
+Supported Equipment:
+- Smokepop Pack, Jump Pack, Tox Pack, and all other vanilla reloadable equipment
+
+Requires Harmony.
+
+---
+
+为RimWorld原版消耗型装备提供增强的装填体验。小人现在可以智能管理资源、优先使用背包里的材料，并通过右键菜单轻松装填。
+
+核心功能：
+- 库存优先：小人会优先使用自己背包里的资源
+- 自动地图搜索：自动寻找地图上可达的资源堆
+- 合并搬运：支持多堆资源合并搬运
+- 精确装填：小人只会拿取当前最大装填次数所需的最少资源量
+- 大地图Gizmo支持：为所有在世界地图上有Gizmo图标的可装填装备添加装填功能
+
+支持装备：
+- 烟雾弹背包、跳跃背包、毒气背包等所有原版可装填装备
+
+需要Harmony前置。</description>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+</ModMetaData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Reload related -->
+  <BetterEquipmentReloading_Reload_Label>Reload</BetterEquipmentReloading_Reload_Label>
+  <BetterEquipmentReloading_Reload_Desc>Reload the equipment.</BetterEquipmentReloading_Reload_Desc>
+  <BetterEquipmentReloading_NoResource>Not enough {0} to reload.</BetterEquipmentReloading_NoResource>
+  <BetterEquipmentReloading_AlreadyFull>Equipment is already full.</BetterEquipmentReloading_AlreadyFull>
+  <BetterEquipmentReloading_ReloadProgress>Reloading ({0}/{1})</BetterEquipmentReloading_ReloadProgress>
+  <BetterEquipmentReloading_ReloadApparel>Reload {0} (requires {1})</BetterEquipmentReloading_ReloadApparel>
+  <BetterEquipmentReloading_NoAmmoDef>No ammo type configured.</BetterEquipmentReloading_NoAmmoDef>
+  <BetterEquipmentReloading_InvalidCost>Invalid reload configuration.</BetterEquipmentReloading_InvalidCost>
+  <BetterEquipmentReloading_ReloadLabel>Reload</BetterEquipmentReloading_ReloadLabel>
+</LanguageData>

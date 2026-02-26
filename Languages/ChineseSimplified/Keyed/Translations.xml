@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 装填相关 -->
+  <BetterEquipmentReloading_Reload_Label>装填</BetterEquipmentReloading_Reload_Label>
+  <BetterEquipmentReloading_Reload_Desc>装填装备</BetterEquipmentReloading_Reload_Desc>
+  <BetterEquipmentReloading_NoResource>没有足够的 {0} 进行装填。</BetterEquipmentReloading_NoResource>
+  <BetterEquipmentReloading_AlreadyFull>装备已满，无需装填。</BetterEquipmentReloading_AlreadyFull>
+  <BetterEquipmentReloading_ReloadProgress>正在装填 ({0}/{1})</BetterEquipmentReloading_ReloadProgress>
+  <BetterEquipmentReloading_ReloadApparel>装填 {0} (需要 {1})</BetterEquipmentReloading_ReloadApparel>
+  <BetterEquipmentReloading_NoAmmoDef>未配置装填材料。</BetterEquipmentReloading_NoAmmoDef>
+  <BetterEquipmentReloading_InvalidCost>装填配置无效。</BetterEquipmentReloading_InvalidCost>
+  <BetterEquipmentReloading_ReloadLabel>装填</BetterEquipmentReloading_ReloadLabel>
+</LanguageData>
